@@ -1,0 +1,2 @@
+# gooddoc1
+thing 
